@@ -26,7 +26,7 @@ spring:
       max-request-size: 1024MB
 
 mybatis:
-  type-aliases-package: com.zzx.model
+  type-aliases-package: com.kmoon.model
   mapper-locations: mapper/*.xml
 
 #静态资源对外暴露的访问路径

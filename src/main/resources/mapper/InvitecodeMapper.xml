@@ -3,7 +3,7 @@
         PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 
-<mapper namespace="com.zzx.mapper.InvitecodeMapper">
+<mapper namespace="com.kmoon.mapper.InvitecodeMapper">
 
     <select id="findinvitecodeByicode" parameterType="Invitecode" resultType="Invitecode">
         SELECT icode ,icreatetime,istate
