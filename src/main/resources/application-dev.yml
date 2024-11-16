@@ -16,7 +16,7 @@ spring:
       validation-query-timeout: 2000
     
   thymeleaf:
-    mode: HTML5
+    mode: HTML
     encoding: UTF-8
     cache: false
     prefix: classpath:/templates/

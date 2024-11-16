@@ -5,6 +5,8 @@
 > SpringBoot Mybatis Bootstrap JQuery thymeleaf 
 >
 > 数据库结构 bbs.sql
+> 
+> 示例数据 data.sql
 
 
 #### 1.0
@@ -21,6 +23,5 @@
 >
 > 网盘：每个用户默认2G容量,通过user.netdisk.size配置 剩余容量显示
 
-默认账号密码
-admin
-123456
+注册邀请码
+INV10001XYZ
