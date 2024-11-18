@@ -94,7 +94,7 @@ $(function ()
     });
     $(".switchCode").click(function ()
     {
-        alert("瞎子上什么论坛")
+        alert("瞎子上什么论坛 ?!")
         $(".yzmImg").attr("src", "/yzm.do?c=" + new Date().getMilliseconds());
     })
     $("#logouot").click(function ()
