@@ -6,7 +6,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.kmoon</groupId>
-	<artifactId>bbs</artifactId>
+	<artifactId>community</artifactId>
 	<version>1.0</version>
 
 	<properties>

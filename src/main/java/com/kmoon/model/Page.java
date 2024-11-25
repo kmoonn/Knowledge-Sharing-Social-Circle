@@ -5,7 +5,7 @@ import java.util.List;
 public class Page<T> {
     private List<T> modelList;
     private Integer pageTotal; //总页数
-    private Integer showCount = 5; //一个页面显示数量，默认显示五条
+    private Integer showCount = 4; //一个页面显示数量，默认显示五条
     private Integer currentPage = 1; //当前页数，默认第一页
 
     public List<T> getModelList() {
