@@ -33,7 +33,7 @@ mybatis:
 file:
   staticAccessPath: /file/**
   #文件上传目录
-  uploadFolder: E:\\file
+  uploadFolder: D:\\file
 
 # 用户默认网盘容量大小 字节 默认2GB
 user:
